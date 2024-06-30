@@ -134,7 +134,7 @@ The TO-DO-LIST App is deployed and accessible online.
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) and was originally developed by [Himgpt0068](https://github.com/Himgpt0068/CODTECK-TASK1).
 
 ## Screenshots
-#  <img src="#  <img src="" width="300">
+#   <img src="https://github.com/Himgpt0068/CODTECK-TASK1/blob/main/Screenshot%20(176).png?raw=true" width="100%">
 
 
 
