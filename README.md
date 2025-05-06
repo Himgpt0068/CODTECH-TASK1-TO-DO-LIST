@@ -2,15 +2,8 @@
 ## TO-DO-LIST
 NAME: HIMANSHU GUPTA.
 
-Company: CODTECH IT SOLUTION.
-
-ID: CT08DS1509
 
 Domain: Web Development.
-
-Duration: 1st june to 30th june.
-
-Mentor: G.SRAVANI
 
 
 ## Table of Content
