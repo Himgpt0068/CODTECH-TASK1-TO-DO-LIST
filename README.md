@@ -41,7 +41,7 @@ Make sure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone git@github.com:https://github.com/Himgpt0068/CODTECK-TASK1
+   https://github.com/Himgpt0068/TO-DO-LIST
    ```
 
 2. **Navigate to the Project Directory:**
